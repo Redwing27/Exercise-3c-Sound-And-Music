@@ -1,6 +1,6 @@
 # Exercise-03c-Sound-And-Music
 
-Exercise for MSCH-C220
+Exercise for Redwing27
 
 The second exercise adding "juicy" features to a simple brick-breaker game.
 
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Aiden Pridemore
